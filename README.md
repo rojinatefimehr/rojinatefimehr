@@ -1,9 +1,9 @@
 
 # Welcome to My GitHub Profile! 👋
 
-- 🔭 I’m currently working at SEL as an embedded software engineer intern.
+- 🔭 I’m currently working at Schweitzer Engineering Laboratories as an embedded software engineer intern.
 - 🌱 I’m currently learning Assembly language.
-- 👨‍💼 Connect with me on [LinkedIn]().
+- 👨‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/rojin-atefimehr-b72a29250/).
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I do not like cheese!
 
